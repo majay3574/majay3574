@@ -85,12 +85,10 @@ const ajayMichael = {
 
 <div align="center">
 
-<a href="https://github.com/majay3574">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=majay3574&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/majay3574">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majay3574&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majay3574&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=majay3574&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=majay3574&theme=tokyonight"/>
 
 </div>
 
@@ -120,7 +118,7 @@ const ajayMichael = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=majay3574&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/majay3574)
+[![trophy](https://github-profile-trophy.vercel.app/?username=majay3574&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/majay3574)
 
 </div>
 
