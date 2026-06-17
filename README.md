@@ -15,35 +15,41 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```typescript
-const ajayMichael = {
-  name:             "Ajay Michael S",
-  location:         "Chennai, Tamil Nadu, India 🇮🇳",
-  degree:           "B.E - Computer Science Engineering",
-  currentRole:      "Engr II – QA Automation @ Verizon",
+```bash
+┌─────────────────────────────────────────────────────────┐
+│                  ~ AJAY MICHAEL S ~                     │
+│            Software Development Engineer in Test        │
+└─────────────────────────────────────────────────────────┘
 
-  stack: [
-    "Playwright (TypeScript)",
-    "Selenium (Java)",
-    "Postman",
-    "Jenkins",
-    "JMeter",
-    "Artillery",
-    "n8n"
-  ],
+$ whoami
+  🧑‍💻  Ajay Michael S — SDET @ Verizon, Chennai 🇮🇳
 
-  currentlyLearning: [
-    "Advanced CI/CD Pipelines",
-    "Performance Engineering",
-    "AI-assisted Testing"
-  ],
+$ cat role.txt
+  ├── 🎯  Breaking things before users do
+  ├── 🤖  Automating the boring stuff (everything)
+  └── 🚀  Shipping confidence, not just code
 
-  funFact:  "Reduced manual testing effort by 40% — twice! 🚀",
+$ cat stack.sh
+  ├── 🎭  Playwright + TypeScript   →  My weapon of choice
+  ├── ☕  Selenium + Java           →  Where it all began
+  ├── 🔗  Postman / REST APIs       →  No endpoint is safe
+  ├── ⚙️   Jenkins + CI/CD          →  Automate. Deploy. Repeat.
+  └── 📊  JMeter + Artillery        →  How much can you handle?
 
-  motto: () => "Quality is not an act, it is a habit.",
-};
+$ git log --oneline --impact
+  ✅  40% manual effort cut  ×2 clients  (Standard Bank + Verizon)
+  ✅  500+ test cases        →  ABSA Banking onboarding
+  ✅  100+ Playwright scripts →  Zero flakes policy
+
+$ cat ./learning/next.md
+  📡  Performance Engineering   →  k6, Gatling
+  🔁  Advanced CI/CD            →  Docker, GitHub Actions
+  🤖  AI-Assisted Testing       →  Smart locators, Gen AI
+
+$ echo $MOTTO
+  "Quality is not an act — it is a habit." 🏆
 ```
 
 <br clear="right"/>
@@ -114,11 +120,11 @@ const ajayMichael = {
 
 ---
 
-## 🏆 Trophy Wall
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=majay3574&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/majay3574)
+![snake gif](https://github.com/majay3574/majay3574/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
