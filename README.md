@@ -1,13 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajay%20Michael%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20in%20Test%20%7C%20Automation%20%7C%20Quality%20First&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajay%20Michael%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;SDET+%7C+QA+Automation+Engineer;Playwright+%2B+TypeScript+Specialist;Building+Quality+at+Scale+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;SDET+%7C+QA+Automation+Engineer;Playwright+%2B+TypeScript+Specialist;Building+Quality+at+Scale+%F0%9F%9A%80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=majay3574&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/majay3574)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajay--michael-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-michael)
 [![Email](https://img.shields.io/badge/Email-majay3574%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:majay3574@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-majay3574-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/majay3574)
+[![Portfolio](https://img.shields.io/badge/Portfolio-majay3574.github.io-70A5FD?style=flat-square&logo=githubpages&logoColor=white)](https://majay3574.github.io/AjayPortfolio)
 
 </div>
 
@@ -18,38 +19,42 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```bash
-┌─────────────────────────────────────────────────────────┐
-│                  ~ AJAY MICHAEL S ~                     │
-│            Software Development Engineer in Test        │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                    ~ AJAY MICHAEL S ~                        │
+│         Developer · AI Engineer · Currently @ Verizon        │
+│                   🟢 Open to New Roles                       │
+└──────────────────────────────────────────────────────────────┘
 
 $ whoami
-  🧑‍💻  Ajay Michael S — SDET @ Verizon, Chennai 🇮🇳
+  🧑‍💻  Ajay Michael S — Developer @ Verizon, Chennai 🇮🇳
+  🔍  Transitioning: QA Automation → AI / Full-Stack Development
 
-$ cat role.txt
-  ├── 🎯  Breaking things before users do
-  ├── 🤖  Automating the boring stuff (everything)
-  └── 🚀  Shipping confidence, not just code
+$ cat current_mission.txt
+  ├── 🧠  Building RAG pipelines & AI Memory systems
+  ├── 🤖  Making LLMs actually remember things (it's harder than it sounds)
+  └── 🚀  Levelling up from testing software to building it
 
 $ cat stack.sh
-  ├── 🎭  Playwright + TypeScript   →  My weapon of choice
-  ├── ☕  Selenium + Java           →  Where it all began
-  ├── 🔗  Postman / REST APIs       →  No endpoint is safe
-  ├── ⚙️   Jenkins + CI/CD          →  Automate. Deploy. Repeat.
+  ├── 🎭  Playwright + TypeScript   →  My automation weapon of choice
+  ├── 🧠  LangChain / LlamaIndex    →  RAG & AI orchestration
+  ├── 🗄️   Vector DBs (Pinecone/FAISS) → Long-term AI memory
+  ├── 🐍  Python                    →  AI, scripting, everything
+  ├── ⚙️   Jenkins + CI/CD           →  Automate. Deploy. Repeat.
   └── 📊  JMeter + Artillery        →  How much can you handle?
 
 $ git log --oneline --impact
-  ✅  40% manual effort cut  ×2 clients  (Standard Bank + Verizon)
-  ✅  500+ test cases        →  ABSA Banking onboarding
-  ✅  100+ Playwright scripts →  Zero flakes policy
+  ✅  40% manual effort cut   ×2 clients  (Standard Bank + Verizon)
+  ✅  500+ test cases         →  ABSA Banking onboarding
+  ✅  100+ Playwright scripts  →  Zero flakes policy
+  🔨  AI RAG Memory System    →  Work in progress 🧠
 
-$ cat ./learning/next.md
-  📡  Performance Engineering   →  k6, Gatling
-  🔁  Advanced CI/CD            →  Docker, GitHub Actions
-  🤖  AI-Assisted Testing       →  Smart locators, Gen AI
+$ cat ./transition/why.md
+  SDET → Developer → AI Engineer
+  3 years shipping quality code → now building intelligent systems
+  "I don't just test software. I understand it deeply enough to build it."
 
 $ echo $MOTTO
-  "Quality is not an act — it is a habit." 🏆
+  "Ship quality. Stay curious. Build the future." 🚀
 ```
 
 <br clear="right"/>
@@ -60,11 +65,20 @@ $ echo $MOTTO
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Automation Frameworks & Testing Tools**
+**AI / ML & RAG**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Automation & Testing**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -75,15 +89,10 @@ $ echo $MOTTO
 **CI/CD & DevOps**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Testing Domains**
-
-![UI Automation](https://img.shields.io/badge/UI%20Automation-70A5FD?style=flat-square&logo=googlechrome&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-BF91F3?style=flat-square&logo=fastapi&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-38BDAE?style=flat-square&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -133,17 +142,18 @@ $ echo $MOTTO
 ## 💼 Work Experience
 
 <details>
-<summary><strong>🟢 Verizon — Engr II, QA Automation (SDET) | Aug 2025 – Present | Chennai, India</strong></summary>
+<summary><strong>🟢 Verizon — Developer | Aug 2025 – Present | Chennai, India</strong></summary>
 
 <br/>
 
-> ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) ![Artillery](https://img.shields.io/badge/Artillery-FF0000?style=flat-square&logo=artillery&logoColor=white)
+> ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- 🧪 Designed and executed **100+ automated test scripts** using Playwright with TypeScript, ensuring high coverage across critical business workflows in an agile environment
-- 🔗 Integrated API validations within Playwright for **seamless end-to-end testing** combining UI and backend verification in a single execution flow
-- 📉 Built and maintained robust regression test suites, **cutting manual testing effort by 40%** and improving release cadence
-- ⚡ Conducted performance testing using **JMeter and Artillery**, identifying bottlenecks and improving application scalability under load
-- 🔧 Developed a **Chrome extension** to streamline internal testing workflows, boosting overall team productivity
+- 💻 Transitioning from QA Automation into **full-stack development**, taking ownership of feature delivery end-to-end
+- 🧪 Designed and executed **100+ automated test scripts** using Playwright with TypeScript, ensuring high coverage across critical business workflows
+- 🔗 Integrated API validations within Playwright for **seamless end-to-end testing** combining UI and backend verification
+- 📉 Built and maintained robust regression test suites, **cutting manual testing effort by 40%**
+- ⚡ Conducted performance testing using **JMeter and Artillery**, improving application scalability under load
+- 🔧 Developed a **Chrome extension** to streamline internal testing workflows, boosting team productivity
 
 </details>
 
@@ -154,10 +164,10 @@ $ echo $MOTTO
 
 > ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![API Testing](https://img.shields.io/badge/API%20Testing-BF91F3?style=flat-square&logo=fastapi&logoColor=white)
 
-- 🏦 Authored and executed **100+ automated test scripts** using Playwright with TypeScript across critical **banking workflows** and business modules
-- 🔗 Integrated API validations within the Playwright framework, enabling **unified end-to-end test execution** combining UI and backend verification
-- 🗄️ Automated database interactions for test data setup, retrieval, and validation, ensuring **data integrity** across test environments
-- 📉 Built and maintained automated regression suites, **reducing manual testing effort by 40%** and accelerating release cycles
+- 🏦 Authored and executed **100+ automated test scripts** using Playwright with TypeScript across critical **banking workflows**
+- 🔗 Integrated API validations enabling **unified end-to-end test execution** combining UI and backend verification
+- 🗄️ Automated database interactions for test data setup, retrieval, and validation ensuring **data integrity**
+- 📉 Built regression suites **reducing manual testing effort by 40%** and accelerating release cycles
 
 </details>
 
@@ -168,10 +178,10 @@ $ echo $MOTTO
 
 > ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-- ⚙️ Developed and executed automated test scripts using **Selenium with Java** validating functionality across the **client onboarding module**
-- 📋 Designed and maintained **500+ manual test cases** covering functional, regression, and end-to-end testing scenarios
-- 🐛 Identified, reported, and tracked defects in collaboration with developers, ensuring timely resolution and **reducing reopen rates**
-- 📑 Upheld testing best practices and maintained comprehensive test documentation to support **audit and compliance needs**
+- ⚙️ Developed automated test scripts using **Selenium with Java** across the **client onboarding module**
+- 📋 Designed and maintained **500+ manual test cases** covering functional, regression, and E2E scenarios
+- 🐛 Identified, reported, and tracked defects reducing **reopen rates** significantly
+- 📑 Maintained test documentation supporting **audit and compliance needs**
 
 </details>
 
@@ -183,9 +193,9 @@ $ echo $MOTTO
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **Playwright Banking Automation Suite** | Playwright · TypeScript · Jenkins | 100+ test scripts · 40% reduction in manual effort · Full UI + API coverage for Standard Bank workflows |
-| **Salesforce Client Onboarding Test Framework** | Selenium · Java · Manual Testing | 500+ test cases · Functional, regression & E2E coverage · Defect tracking & compliance docs for ABSA Banking |
-| **Chrome Extension for Test Productivity** | JavaScript · Chrome APIs | Internal tooling to streamline QA workflows at Verizon · Improved team productivity |
+| **🧠 AI RAG Memory System** | Python · LangChain · Vector DB · LLM | Persistent AI memory with RAG pipeline · Context-aware responses · Long-term knowledge retrieval |
+| **🎭 Playwright Banking Automation Suite** | Playwright · TypeScript · Jenkins | 100+ test scripts · 40% reduction in manual effort · Full UI + API coverage for Standard Bank |
+| **🔧 Chrome Extension for Test Productivity** | JavaScript · Chrome APIs | Internal tooling to streamline QA workflows at Verizon · Boosted team productivity |
 
 </div>
 
@@ -197,11 +207,12 @@ $ echo $MOTTO
 
 | 🏆 | Achievement | Details |
 |---|---|---|
+| 🧠 | **AI RAG & Memory Systems** | Actively building production-grade RAG pipelines with persistent memory |
 | 📜 | **LambdaTest Playwright 101 Certified** | Core Playwright automation — browser automation & scripting |
 | 📜 | **LambdaTest Playwright 102 Certified** | Advanced: parallel testing, CI/CD integration, dynamic elements, debugging |
-| ⚡ | **40% Manual Effort Reduction** | Achieved consistently across 2 different client engagements (Standard Bank & Verizon) |
-| 🧪 | **500+ Test Cases Authored** | Comprehensive test coverage designed for ABSA Banking's client onboarding module |
-| 💼 | **3+ Years SDET Experience** | Across banking, telecom, and LMS domains |
+| ⚡ | **40% Manual Effort Reduction** | Achieved consistently across 2 client engagements (Standard Bank + Verizon) |
+| 🧪 | **500+ Test Cases Authored** | Comprehensive test coverage for ABSA Banking's client onboarding module |
+| 💼 | **3+ Years Experience** | Across banking and telecom domains — now pivoting to AI development |
 
 </div>
 
@@ -220,21 +231,22 @@ $ echo $MOTTO
 <br/>
 
 ```
-🌱 Currently Learning & Exploring:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚡ Performance Engineering  →  JMeter, Artillery, k6
-🔁 Advanced CI/CD           →  GitHub Actions, Docker, Pipeline Optimization
-🤖 AI-Assisted Testing      →  AI test generation, Smart Locators
-☁️  Cloud QA                →  AWS/Azure basics for test infrastructure
-🧩 API Contract Testing     →  Pact, Schema Validation
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 Currently Building & Learning:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🤖 AI RAG Systems        →  LangChain, LlamaIndex, Vector DBs
+🧬 AI Memory             →  Persistent context, episodic memory, Mem0
+🐍 Python for AI         →  FastAPI, async pipelines, embeddings
+☁️  LLM Deployment        →  Ollama, HuggingFace, OpenAI API
+🔁 Advanced CI/CD        →  Docker, GitHub Actions, pipeline optimization
+🌐 Full-Stack Dev         →  React, Node.js, REST APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
 <div align="center">
 
-*"Quality is never an accident; it is always the result of intelligent effort."*
+*"Ship quality. Stay curious. Build the future."* 🚀
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
