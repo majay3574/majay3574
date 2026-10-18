@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=majay3574&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/majay3574)
+<img src="https://komarev.com/ghpvc/?username=majay3574&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajay--michael-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-michael)
 [![Email](https://img.shields.io/badge/Email-majay3574%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:majay3574@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-majay3574-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/majay3574)
