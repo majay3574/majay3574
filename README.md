@@ -4,14 +4,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)
 
-<img src="https://komarev.com/ghpvc/?username=majay3574&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/majay3574&count_bg=%2370A5FD&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/ajay-michael"><img src="https://img.shields.io/badge/LinkedIn-ajay--michael-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:majay3574@gmail.com"><img src="https://img.shields.io/badge/Gmail-majay3574-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/majay3574"><img src="https://img.shields.io/badge/GitHub-majay3574-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://majay3574.github.io/AjayPortfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ajay-michael">
+  <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Michael-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:majay3574@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-majay3574%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/majay3574">
+  <img src="https://img.shields.io/badge/GitHub-majay3574-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://majay3574.github.io/AjayPortfolio">
+  <img src="https://img.shields.io/badge/Portfolio-majay3574.github.io-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
