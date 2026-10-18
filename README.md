@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ajay+Michael+%F0%9F%91%8B;Developer+%7C+AI+Engineer+%7C+Open+to+Work;Building+RAG+%2B+Memory+Systems+%F0%9F%A7%A0;From+QA+Automation+%E2%86%92+AI+Development+%F0%9F%9A%80)
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/majay3574&count_bg=%2370A5FD&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+
 
 <br/><br/>
 
